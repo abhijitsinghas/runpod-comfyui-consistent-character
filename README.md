@@ -23,8 +23,8 @@ on GPU cloud platforms.
 - 🎨 Pre-configured ComfyUI installation (accessible on port 3000)
 - 📂 Web-based file browser (accessible on port 4040)
 - 🤖 Pre-installed model categories:
-  - Base models (JuggernautXL, Flux1)
-  - IP-Adapters (SDXL & SD1.5 variants)
+  - Base models (JuggernautXL)
+  - IP-Adapters (SDXL)
   - ControlNet models
   - Face detection models
   - Upscalers
