@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/abhijitsinghas/runpod-comfyui-consistent-character/compare/v1.0.0...v1.0.1) (2025-05-09)
+
+
+### Bug Fixes
+
+* Updated the README with repository links ([cf3c993](https://github.com/abhijitsinghas/runpod-comfyui-consistent-character/commit/cf3c9935ce0a9a081659ad8c4775ce25aa93fabd))
+
 # 1.0.0 (2025-05-09)
 
 
